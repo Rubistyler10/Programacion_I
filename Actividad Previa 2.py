@@ -17,7 +17,7 @@ area = sqrt(semi_perimetro*(semi_perimetro-lado_A)*(semi_perimetro-lado_B)*(semi
 
 print(('El perímetro del triángulo es {0} y el área es {1}').format(perimetro, area))
 print('''Fin del ejercicio 38
-########################################################################################''')
+#########################################################################################''')
 
 #EJERCICIO 41
 print('Ejercicio 41')
